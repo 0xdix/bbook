@@ -171,7 +171,7 @@ The following tools were used in the construction of the project:
 -   **[uuidv4](https://github.com/thenativeweb/uuidv4)**
 -   **[yup](https://github.com/jquense/yup)**
 
-> See the file  [package.json](https://github.com/lildix/bbook/blob/mainbb-web/package.json)
+> See the file  [package.json](https://github.com/lildix/bbook/blob/main/bbook-web/package.json)
 
 ####  **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
