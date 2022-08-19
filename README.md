@@ -10,7 +10,7 @@
 
 <p align="center">
     
-   <img alt="License" src="https://img.shields.io/github/license/lildix/bbook">
+   <img alt="License" src="https://img.shields.io/github/license/0xdix/bbook">
    
 </p>
 
@@ -106,7 +106,7 @@ $ yarn dev:server
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:lildix/bbook.git
+$ git clone git@github.com:0xdix/bbook.git
 
 # Access the project folder in your terminal
 $ cd bbook
@@ -129,7 +129,7 @@ $ yarn start
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:lildix/bbook.git
+$ git clone git@github.com:0xdix/bbook.git
 
 # Access the project folder in your terminal
 $ cd bbook
