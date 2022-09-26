@@ -82,7 +82,7 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:lildix/bbook.git
+$ git clone git@github.com:hollowsec/bbook.git
 
 # Access the project folder in your terminal
 $ cd bbook
@@ -106,7 +106,7 @@ $ yarn dev:server
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:0xdix/bbook.git
+$ git clone git@github.com:hollowsec/bbook.git
 
 # Access the project folder in your terminal
 $ cd bbook
@@ -129,7 +129,7 @@ $ yarn start
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:0xdix/bbook.git
+$ git clone git@github.com:hollowsec/bbook.git
 
 # Access the project folder in your terminal
 $ cd bbook
